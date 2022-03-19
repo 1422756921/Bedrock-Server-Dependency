@@ -13,7 +13,7 @@ Minecraft 基岩版服务器 (Centos 或者其他 Linux) 依赖包
 </code></pre>
 
 2.下载依赖
-<pre><code>wget https://github.com/XiaoXianHW/Bedrock-Server-Dependency/raw/main/pack.tar.gz
+<pre><code>wget https://github.com/1422756921/Bedrock-Server-Dependency/raw/main/pack.tar.gz
 </code></pre>
 
 3.解压依赖包
